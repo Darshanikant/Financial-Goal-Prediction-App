@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-data=pd.read_excel(r"C:\Users\sunil\Downloads\family_financial_and_transactions_data.xlsx")
+data=pd.read_excel("family_financial_and_transactions_data.xlsx")
 
 le=LabelEncoder() # le to labelencoder
 le
