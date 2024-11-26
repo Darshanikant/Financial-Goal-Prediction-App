@@ -72,4 +72,8 @@ The app predicts the financial goal as a percentage based on the input.
 - Once the model is trained, it is saved using pickle (financial goal.pkl).
 - The scaler used for input scaling is also saved as scaler.pkl.
 - To retrain the model, modify the train.py script, fit the model on your data, and save the new model and scaler files.
+   # Conclusion
+- The Financial Goal Prediction App is a powerful yet easy-to-use tool designed to help users predict their financial goals based on key financial parameters. By leveraging Linear Regression for predictions and Streamlit for the interactive web interface, the app offers a seamless experience for visualizing financial data and making informed decisions.
+
+- This app is ideal for individuals and businesses looking to better understand their finances and set realistic financial goals. With its user-friendly design, machine learning backend, and the ability to visualize trends, the app serves as both a practical and insightful tool for financial planning.
 
