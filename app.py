@@ -59,7 +59,7 @@ model, scaler = load_model_and_scaler()
 # Load the dataset
 @st.cache_data
 def load_data():
-    file_path = r"C:\Users\sunil\Downloads\family_financial_and_transactions_data.xlsx"
+    file_path = "family_financial_and_transactions_data.xlsx"
     return pd.read_excel(file_path)
 
 data = load_data()
