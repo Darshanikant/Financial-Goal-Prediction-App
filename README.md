@@ -8,6 +8,7 @@ Financial Goal Prediction App
 - Data overview with descriptive statistics.
 # Demo:
 - You can access the live demo of the application here.
+- link:  https://financial-goal-prediction-app-fsnwff995cfjo87munmtwj.streamlit.app/
 
 # Table of Contents:
 - Installation
